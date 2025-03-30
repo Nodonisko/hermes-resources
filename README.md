@@ -5,9 +5,9 @@ Collection of resourced that I gather across internet about (Static) Hermes JS e
 - [Github Repo](https://github.com/facebook/hermes) - use branch `static_h` for Static Hermes
 
 ### Videos
-- [Hermes: better performance with runtime bytecode translation — Tzvetan Mikov | RUC 2024](https://www.youtube.com/watch?v=GUM64b-gAGg)
-- [Neil Dhar - Optimizing With Static Hermes (Chain React 2024)](https://www.youtube.com/watch?v=wflwVQp2zN0_)
-- [Static Hermes: the Next Generation of Hermes - Tzvetan Mikov | React Native EU 2023](https://www.youtube.com/watch?v=q-xKYA0EO-c)
+- [Hermes: better performance with runtime bytecode translation — Tzvetan Mikov | RUC 2024](https://www.youtube.com/watch?v=GUM64b-gAGg) - "JIT" for Hermes
+- [Neil Dhar - Optimizing With Static Hermes (Chain React 2024)](https://www.youtube.com/watch?v=wflwVQp2zN0_) - deep dive into how Hermes optimizes your code internally
+- [Static Hermes: the Next Generation of Hermes - Tzvetan Mikov | React Native EU 2023](https://www.youtube.com/watch?v=q-xKYA0EO-c) - introduction of Static Hermes
 
 ### Podcasts
 - [RNR 323 - Static Hermes with Tzvetan Mikov (March 2025)](https://www.youtube.com/watch?v=CPyNY79DQuY)
