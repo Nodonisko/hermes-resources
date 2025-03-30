@@ -2,7 +2,7 @@
 Collection of resourced that I gather across internet about (Static) Hermes JS engine. (engine that powers React Native)
 
 ### Official links
-- [Github Repo](https://github.com/facebook/hermes) - use branch `static_h` for Static Hermes
+- [Hermes Github Repo](https://github.com/facebook/hermes) - all active development is happening in `static_h` branch (Static Hermes)
 
 ### Videos
 - [Hermes: better performance with runtime bytecode translation — Tzvetan Mikov | RUC 2024](https://www.youtube.com/watch?v=GUM64b-gAGg) - "JIT" for Hermes
