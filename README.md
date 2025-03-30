@@ -1,5 +1,5 @@
-# hermes-resources
-Collection of resourced gather across internet about (Static) Hermes JS engine.
+# (Static) Hermes resources
+Collection of resourced that I gather across internet about (Static) Hermes JS engine. (engine that powers React Native)
 
 ### Official links
 - [Github Repo](https://github.com/facebook/hermes) - use branch `static_h` for Static Hermes
@@ -44,4 +44,4 @@ Collection of resourced gather across internet about (Static) Hermes JS engine.
 - [Link X](https://x.com/tmikov/status/1747462584725545049) - `atob` and `btoa` support in Hermes
 
 ### Conferences
-[React Universe](https://www.reactuniverseconf.com) - Wroclaw, Poland - usually you can meet Hermes team there and there is also at least one talk about Hermes
+[React Universe](https://www.reactuniverseconf.com) - Wrocław, Poland - usually you can meet Hermes team there and there is also at least one talk about Hermes
