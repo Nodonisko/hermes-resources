@@ -33,7 +33,8 @@ Collection of resourced that I gather across internet about (Static) Hermes JS e
 - [Repo](https://github.com/thejustinwalsh/sh-raylib) - raylib bindings for Static Hermes
 
 ### Other useful links
-- [Link X](https://x.com/mrousavy/status/1890742572466753808) - make app start significatly faster by disabling bytecode compression for Android apps (should be default RN 0.79+) 
+- [Link X](https://x.com/mrousavy/status/1890742572466753808) - make app start significatly faster by disabling bytecode compression for Android apps (should be default RN 0.79+)
+- [Link X](https://x.com/piaskowyk/status/1842201000095948860) - introduction of SWM fork of Static Hermes that you can try right now
 - [Link X](https://x.com/tmikov/status/1821219997181763956) - small example of how NativeState could be used to define classes backed by a native implementation. [Gist](https://gist.github.com/tmikov/3e6310abcd77ff8066297cdd4927b44d)
 - [Link X](https://x.com/tmikov/status/1820266381545468200) - Tzvetan tweets about difference between JSI `NativeState` and `HostObject`
 - [Link X](https://x.com/tmikov/status/1757112273783378054) - Tzvetan tweets about Static Hermes generic support with technical details in thread
