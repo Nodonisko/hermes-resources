@@ -3,6 +3,7 @@ Collection of resourced that I gather across internet about (Static) Hermes JS e
 
 ### Official links
 - [Hermes Github Repo](https://github.com/facebook/hermes) - all active development is happening in `static_h` branch (Static Hermes)
+- [Try Static Hermes in your app](https://github.com/software-mansion-labs/hermes) - Fork and build of Static Hermes from Software Mansion. This repo includes guide how to use Static Hermes in your app today (without typed mode)
 
 ### Videos
 - [Hermes: better performance with runtime bytecode translation — Tzvetan Mikov | RUC 2024](https://www.youtube.com/watch?v=GUM64b-gAGg) - "JIT" for Hermes
@@ -25,7 +26,6 @@ Collection of resourced that I gather across internet about (Static) Hermes JS e
 
 
 ### Code examples + repositories
-- [Try Static Hermes in your app](https://github.com/software-mansion-labs/hermes) - Fork and build of Static Hermes from Software Mansion. This repo includes guide how to use Static Hermes in your app today (without typed mode)
 - [Repo](https://github.com/tmikov/gpt-scroller) - A simple Static Hermes demo using DearImGUI
 - [Gist](https://gist.github.com/tmikov/3e6310abcd77ff8066297cdd4927b44d) - example usage of `NativeState`
 - [Repo](https://github.com/tmikov/octane) - Tzvetan fork of `Octane` benchmark lib with some results for (Static) Hermes
